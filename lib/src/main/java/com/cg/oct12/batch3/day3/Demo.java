@@ -10,7 +10,7 @@ public class Demo {
 
 		// non-static method- restricted access - with object reference
 		void hii() {
-			System.out.println("Hii World");
+			System.out.println("Hii World.....");
 		}
 
 		public static void main(String[] args) {
